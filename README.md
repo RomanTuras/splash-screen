@@ -40,3 +40,6 @@ Branding Image:
 - Resolution: 600x240px
 - Scaled Resolution: 200x80 @3x
 - Format: PNG
+
+
+![Image](https://github.com/user-attachments/assets/d4505c2c-3f4a-4d67-97c8-3da9dfadbbe6)
